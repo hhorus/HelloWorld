@@ -1,3 +1,3 @@
 # HelloWorld
 Hands on GitHub
-Whatever should be put here will never appear
+Once upon a time, and then the heroe dies. Good night
